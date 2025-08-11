@@ -68,7 +68,7 @@
 
    /* Top center bar with channel info */
   .title_f75fb0 {
-      background: black !important;
+      background: url("https://i.imgur.com/P0DLHz8.jpg?1");
       border-bottom: 2px solid var(--neon-red-color);
       box-sizing: border-box;
   }
