@@ -1,10 +1,10 @@
 :root {
-    --background-primary: linear-gradient(180deg, rgba(23,0,5,0.2) 10%, rgba(0,0,0,0) 65%);
-    --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%);
+    --background-primary: linear-gradient(180deg, rgba(23,0,5,0) 10%, rgba(0,0,0,0) 65%);
+    --background-secondary: linear-gradient(180deg, rgba(23,0,5,0) 10%, rgba(0,0,0,0) 65%);
     --font-primary: 'Rajdhani';
     --primary-text-color: lightgray;
 
-    --primary: 23, 13, 22;
+    --primary: 23, 255, 22;
     --red: 255, 0, 60;
     --blue: 114, 234, 248;
     --yellow: 243, 230, 0;
